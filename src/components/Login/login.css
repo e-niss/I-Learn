@@ -1,0 +1,22 @@
+@media all and (min-width: 480px) {
+  .Login {
+    padding: 60px 0;
+    width: 80vh;
+    margin: 0 auto;
+  }
+
+  .Login form {
+    margin: 0 auto;
+    max-width: 320px;
+  }
+}
+.Login {
+  padding: 60px 0;
+  width: 90vw;
+  margin: 0 auto;
+}
+.cont-login {
+  background-color: blue;
+  width: 90vw;
+  margin: 0 auto;
+}

@@ -1,0 +1,21 @@
+.login-card {
+  min-height: 60vh;
+}
+
+.registerMessage {
+  margin-top: 10vh;
+}
+
+.login-form-container {
+  margin: 0 auto;
+  padding: 25px;
+}
+
+.login-form-separator {
+  height: 50px;
+}
+
+.btn-submit {
+  display: grid;
+  place-content: center;
+}
